@@ -23,3 +23,11 @@ to analyze public sentiment on Twitter using natural language processing (NLP) t
  	- Confusion Matrix: analyzed classification accuracy and misclassifications for each model
 4. **Interactive Visualizations**
   - pairplot analysis of VADER vs. RoBERTa
+
+## Tools used
+1. **Programming Language** 
+  - Python
+2. **Libraries**
+  - pandas, numpy, scikit-learn, transformers, torch, NLTK, vaderSentiment, swifter, scipy
+3. **Visualization Tools**
+  - seaborn, matplotlib
