@@ -5,7 +5,7 @@
 This project analyzes public sentiment on Twitter using natural language processing (NLP) techniques. The goal is to classify tweets as positive, negative, or neutral, providing insights into public opinion on a specific topic, brand, or event.
 
 ### Dataset 
-(https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/data)
+**Dataset Source:** [Twitter Dataset](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/data)
 
 | Name              | Description                                                        |
 |-------------------|--------------------------------------------------------------------|
